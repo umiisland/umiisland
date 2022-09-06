@@ -9,12 +9,10 @@
 ![Profile_Views](https://komarev.com/ghpvc/?username=umiisland&color=orange)
 ## Hi! I'm Thitaree 👩‍💻 
 
----
 A lot of people call me Umi (from 海 in Japanese), I graduated with a first-class honours in MEng Computer Science from the University of Southampton (UK). Now I'm a full-time Software Developer based in the United Kingdom. 
 
 ## My Cybersecurity Adventures 🔭
 
----
 I love cybersecurity and I aim to commit myself every day to cybersecurity :)
 - Checkout my TryHackMe Profile here 👇🏻
 
