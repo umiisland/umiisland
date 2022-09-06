@@ -1,14 +1,14 @@
 # Hi there 👋 Welcome to my GitHub profile 🤩
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thitaree-udomsapaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/funddeveloped73.png" alt="TryHackMe">
-</div>
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitaree-udomsapaya/)
+[![TRYHACKME](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/funddeveloped73)
+
+
+---
+[![tryhackme stats](https://raw.githubusercontent.com/umiisland/umiisland/master/assets/thm_propic.png)](https://tryhackme.com/p/funddeveloped73)
+
+[//]: # (![tryhackme stats]&#40;assets/thm_propic.png&#41;)
 
 <!--
 **umiisland/umiisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
