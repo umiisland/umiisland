@@ -7,11 +7,8 @@
   <a href="https://www.linkedin.com/in/thitaree-udomsapaya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/funddeveloped73.png" alt="TryHackMe">
 </div>
-
-```javascript
-<script src="https://tryhackme.com/badge/1309194"></script>
-```
 
 <!--
 **umiisland/umiisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
