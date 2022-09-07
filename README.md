@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile 🤩 🏝
+# 🌋 Welcome to my GitHub profile 🏔
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thitaree-udomsapaya/)
@@ -9,14 +9,27 @@
 ![Profile_Views](https://komarev.com/ghpvc/?username=umiisland&color=orange)
 ## Hi! I'm Thitaree 👩‍💻 
 
-A lot of people call me Umi (from 海 in Japanese), I graduated with a first-class honours in MEng Computer Science from the University of Southampton (UK). Now I'm a full-time Software Developer based in the United Kingdom. 
+A lot of people call me Umi (from 海 🌊 in Japanese ) 
+- 🎓 I graduated with a first-class honours 🎉 in <a href="https://www.southampton.ac.uk/courses/computer-science-degree-meng">MEng Computer Science</a> from the <a href="https://www.southampton.ac.uk">University of Southampton</a> (UK). 
+- 🧑‍💼 Now I'm a full-time Software Developer based in the United Kingdom. 🇬🇧
 
 ## My Cybersecurity Adventures 🔭
 
-I love cybersecurity and I aim to commit myself every day to cybersecurity :)
-- Checkout my TryHackMe Profile here 👇🏻
+I love cybersecurity 🤟🏻 and I aim to commit myself every day to cybersecurity 🐛
+- Checkout my <a href="https://tryhackme.com/p/funddeveloped73">TryHackMe</a> Profile here 👇🏻
 
 [![tryhackme stats](https://raw.githubusercontent.com/umiisland/umiisland/master/assets/thm_propic.png)](https://tryhackme.com/p/funddeveloped73)
+
+## Languages and Tools 🛠️
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg?raw=true" width="100"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg?raw=true" width="100"/>
+</div>
 
 <!--
 **umiisland/umiisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
