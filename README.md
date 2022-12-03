@@ -21,15 +21,16 @@ I love cybersecurity 🤟🏻 and I aim to commit myself every day to cybersecur
 [![tryhackme stats](https://raw.githubusercontent.com/umiisland/umiisland/master/assets/thm_propic.png)](https://tryhackme.com/p/funddeveloped73)
 
 ## Languages and Tools 🛠️
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg?raw=true" width="100"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg?raw=true" width="100"/>
-</div>
+<section>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" width="100" alt="Python Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?raw=true" width="100" alt="Java Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" width="100" alt="Bash Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?raw=true" width="100" alt="HTML5 Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg?raw=true" width="100" alt="CSS3 Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" width="100" alt="Git Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg?raw=true" width="100" alt="Latex Logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg?raw=true" width="100" alt="Jupyter Logo"/>
+</section>
 
 <!--
 **umiisland/umiisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
