@@ -16,3 +16,4 @@ jobs:
       - run: ls -al
       - run: pip install -r requirements.txt
       - run: python update_thm_badge.py
+      - run: ls -al
