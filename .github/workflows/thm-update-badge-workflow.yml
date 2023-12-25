@@ -2,7 +2,7 @@ name: Update THM Badge
 
 on:
   schedule:
-    - cron: "*/5 * * * *"    #runs at 11:30 UTC everyday
+    - cron: "*/5 * * * *" #runs every 5 minutes
 
 jobs:
   run-update-thm-badge-script:
