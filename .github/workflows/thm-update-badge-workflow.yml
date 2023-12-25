@@ -13,5 +13,6 @@ jobs:
         with:
           python-version: '3.9' #install the python needed
       - run: python -m pip install --upgrade pip
+      - run: ls -al
       - run: pip install -r requirements.txt
       - run: python update_thm_badge.py
