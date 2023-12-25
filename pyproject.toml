@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "umiisland"
+version = "0.1.0"
+description = ""
+authors = ["umiisland <umiisland@hotmail.co.th>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+requests = "^2.31.0"
+file = "^0.3.0"
+html2image = "^2.0.4.3"
+numpy = "^1.26.2"
+pillow = "^10.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
