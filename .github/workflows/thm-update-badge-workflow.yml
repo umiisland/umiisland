@@ -17,9 +17,10 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python update_thm_badge.py
       - run: ls -al
-      - run: git remote set-url origin ${{ secrets.ssh }}
       - run: git status
       - run: git add .
       - run: git commit -m "Auto updating THM Profile Badge"
+        with:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - run: git fetch origin master
       - run: git push origin HEAD:master
