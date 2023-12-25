@@ -22,5 +22,5 @@ jobs:
       - run: git config user.email "thitareeudomsapaya@gmail.com"
       - run: git config user.name "github action auto-commit"
       - run: git commit -m "Auto updating THM Profile Badge"
-      - run: git fetch origin master
+      - run: git fetch origin main
       - run: git push origin HEAD:master
