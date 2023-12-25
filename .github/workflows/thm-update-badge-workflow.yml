@@ -20,7 +20,5 @@ jobs:
       - run: git status
       - run: git add .
       - run: git commit -m "Auto updating THM Profile Badge"
-        with:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - run: git fetch origin master
       - run: git push origin HEAD:master
